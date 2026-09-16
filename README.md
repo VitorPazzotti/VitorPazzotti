@@ -4,7 +4,7 @@ I'm **Vitor Pazzotti**, a Senior Data Engineer based in Rio de Janeiro, Brazil.
 
 I design, build, and optimize large-scale Big Data architectures and Cloud pipelines (AWS & Azure).
 
-If there's complex data, a massive workload, or a legacy pipeline that needs modernizing, chances are I'm engineering a smooth, scalable solution for it.
+Whether it's refactoring legacy systems or processing high-volume data, I build reliable, scalable solutions designed for performance.
 
 My main tech stack includes **Python (PySpark)**, **SQL**, **Azure Databricks**, **AWS**, **Delta Lake**, and **Apache Kafka**. I also build end-to-end orchestration workflows using **Airflow**, **Maestro**, and robust **CI/CD pipelines**.
 
